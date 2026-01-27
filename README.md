@@ -40,7 +40,3 @@ Developed with ❤️ by **[Franco Martino](https://github.com/FrancoMartino)**.
 ## ⚠️ Disclaimer
 
 This is an unofficial tool and is not affiliated, associated, authorized, endorsed by, or in any way officially connected with Mercado Libre, or any of its subsidiaries or affiliates. Use this extension at your own risk.
-
----
-
-Would you like me to help you write a **LICENSE** file or perhaps a **Contribution** guide to go along with this?
