@@ -12,5 +12,7 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
             message: request.message,
             priority: 2
         });
+    } else if (request.action === "CLOSE_TAB") {
+        chrome.tabs.remove(sender.tab.id);
     }
 });
