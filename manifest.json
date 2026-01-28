@@ -1,11 +1,10 @@
 {
     "manifest_version": 3,
     "name": "Mercado Libre 🇦🇷 | Cupones",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Aplicador de cupones de Mercado Libre Argentina",
     "permissions": [
         "activeTab",
-        "scripting",
         "notifications"
     ],
     "action": {
