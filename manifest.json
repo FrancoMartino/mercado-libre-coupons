@@ -4,7 +4,6 @@
     "version": "1.0.1",
     "description": "Aplicador de cupones de Mercado Libre Argentina",
     "permissions": [
-        "activeTab",
         "notifications"
     ],
     "action": {
